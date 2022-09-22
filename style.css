@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    height: 100vh;
+    background-color: black;
+}
+.logo-box{
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+.logo{
+    display: inline-block;
+    font-size: 6rem;
+    color: darkturquoise;
+}
+.nav{
+    position: absolute;
+    top: 1.5%;
+    left: 70%;
+}
+.list-items{
+    display: inline-block;
+    font-size: 2rem;
+    color: blue;
+    margin-right: 2.8rem;
+}
+.h-1{
+    position: absolute;
+    top: 23%;
+    left: 5%;
+}
+.text{
+    display: inline-block;
+    color: beige;
+    font-size: 3.5rem;
+    margin-right: 30rem;
+}
+.lotanna{
+    position: absolute;
+    top: 67%;
+    left: 5%;
+}
+.list-items-1{
+    font-size: 5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chartreuse;
+}
+.list-items-2{
+    font-size: 2rem;
+    color: aqua;
+}
+.list-items-3{
+    font-size: 2rem;
+    color: brown;
+}
+.list-items-4{
+    font-size: 2rem;
+    color: blueviolet;
+}
+.list-items-5{
+    font-size: 2rem;
+    color: chartreuse;
+}
+.btn{
+    display: inline-block;
+    position: absolute;
+    top: 85%;
+    left: 85%;
+}
+.number{
+    font-size: 2rem;
+    padding: 1.5rem 4.5rem;
+    border-radius: 2rem;
+    color: crimson;
+    background-color: blanchedalmond;
+}
+.p{
+    position: absolute;
+    top: 95%;
+    left: 87%;
+}
+.nelson{
+    font-size: 2rem;
+    color: darkgreen;
+}
+.span{
+    font-size: 4rem;
+    color: darkorange;
+}
+.span-22{
+    font-size: 4rem;
+    color: chartreuse;
+}
